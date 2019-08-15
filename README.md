@@ -1,4 +1,4 @@
 ��# matrix
-PHP logic practice
+PHP logic practice for array indexing
 
 
